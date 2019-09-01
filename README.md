@@ -16,5 +16,8 @@ CoAP-6LoWPAN-Based-Homenetwork-System
 ### 시스템 구성도
 ![screenshot1](./2.png)
 
-### 데모 
+### CoAP/6LoWPAN 통신 어플리케이션
 ![screenshot1](./3.png)
+
+### 데모 
+![screenshot1](./4.png)
